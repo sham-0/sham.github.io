@@ -26,9 +26,7 @@
 <a href="https://instagram.com/choasnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaosnull" height="30" width="40" /></a>
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
+<h3>
 <style> 
 div {
   width: 100px;
@@ -43,14 +41,12 @@ div {
   to {background-color: black;}
 }
 </style>
-</head>
+</h3>
 <body>
 
 <h1>CSS Animation</h1>
 
 <div></div>
-
-<p><b>Note:</b> When an animation is finished, it goes back to its original style.</p>
 
 </body>
 </html>
